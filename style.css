@@ -1,0 +1,15 @@
+body{background-image:url("bravo.jpg"); background-size:cover;}
+div.a{background-color:#cccccc; font-size:30px; padding: 10px; border-radius:10px; border-bottom: 5px solid green;}
+button.s{background-color: #f2f2f2; border:none; font-style:sans-serif;   float: right; padding:15px;}
+button.s:hover{background-color:green; border-radius:5px;color:white}
+p.x{font-size:20px;font-style:italic;color:white;text-align:center;border-bottom: 5px solid #cccccc ; margin:20px 600px ;}
+p.y{text-align:center;}
+ input{border:none; padding:10px;background-color: #cccccc; color:black;}
+div.z{background-color:black;height:800px ;margin:20px; padding:30px;border-radius:15px;}
+p.b{background-color:#f2f2f2;height:550px ;font-size:20px;color:#cc0000;border-radius:10px; padding:20px;}
+p.c{background-color:#f2f2f2;height:50px ;font-size:20px;color:#cc0000;border-radius:5px;text-align:center;}
+img{margin:10px 30px;opacity:1;}
+img:hover{margin:10px 30px; opacity:0.5;}
+button.q{margin:5px 82px;background-color:#b8b894; padding:10px;border-radius:8px;border:none;}
+button.q:hover{background-color:#99ebff; padding:10px;border-radius:8px;border:none;}
+UL{COLOR:WHITE;}
